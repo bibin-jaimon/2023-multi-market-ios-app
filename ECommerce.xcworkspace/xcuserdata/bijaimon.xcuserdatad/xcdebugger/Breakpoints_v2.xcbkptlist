@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FDE5B284-C4BC-4F42-B46C-05E315BB6059"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF4A5CDF-B7A3-429A-80AA-564C68E46298"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "plugins/Account/Account/AccountPluginAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "makeAccountTabBarItem()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF4A5CDF-B7A3-429A-80AA-564C68E46298 - 78da5cdb7fc58984"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Account.AccountPluginAPI.makeAccountTabBarItem() -&gt; ECPlatform.ECTabBarItem"
+                  moduleName = "ECommerce.ca"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bijaimon/Desktop/ECommerce/plugins/Account/Account/AccountPluginAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "657">
+               </Location>
+               <Location
+                  uuid = "BF4A5CDF-B7A3-429A-80AA-564C68E46298 - df665c87d6c493"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Account.AccountPluginAPI.makeAccountTabBarItem() -&gt; ECPlatform.ECTabBarItem"
+                  moduleName = "ECommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bijaimon/Desktop/ECommerce/plugins/Account/Account/AccountPluginAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "657">
+               </Location>
+               <Location
+                  uuid = "BF4A5CDF-B7A3-429A-80AA-564C68E46298 - 78da5cdb7fc58984"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Account.AccountPluginAPI.makeAccountTabBarItem() -&gt; ECPlatform.ECTabBarItem"
+                  moduleName = "ECommerce.ca"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bijaimon/Desktop/ECommerce/plugins/Account/Account/AccountPluginAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "605">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

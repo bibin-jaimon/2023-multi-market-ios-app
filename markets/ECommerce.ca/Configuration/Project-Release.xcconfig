@@ -1,0 +1,11 @@
+//
+//  Project-Release.xcconfig
+//  ECommerce.ca
+//
+//  Created by Bibin Jaimon on 08/10/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+PRODUCT_NAME = EcomCa
+PRODUCT_BUNDLE_IDENTIFIER = com.ecome.ca
