@@ -13,5 +13,8 @@
 
 - Created a dependency injection container to register all the dependencies. The advantage of using this approach is the decoupling of the code.
 - Each plugins registed using a protocol.
-- If Home wants to use Account framework, They don't have to import it they only need Dependency injection container and the protocol for the dependency!
+
 <img width="1440" alt="image" src="https://github.com/bibin-jaimon/2023-multi-market-ios-app/assets/22428886/7c866a97-054a-427a-8878-4d2134e63c62">
+
+- If Home wants to use Account framework, They don't have to import the framework they only need Dependency injection container and the protocol for the dependency!
+<img width="1040" alt="image" src="https://github.com/bibin-jaimon/2023-multi-market-ios-app/assets/22428886/cea9a1e6-4139-47da-bd9d-abbaf53a931c">
