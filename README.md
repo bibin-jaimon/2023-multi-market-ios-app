@@ -11,3 +11,7 @@
 - HomeApp is target to run the Home Framework alone. We don't have to run the entire app to work on Home features.
 <img width="1552" alt="image" src="https://github.com/bibin-jaimon/2023-multi-market-ios-app/assets/22428886/423312b2-b54f-4c18-9eda-02036ed660c8">
 
+- Created a dependency injection container to register all the dependencies. The advantage of using this approach is the decoupling of the code.
+- Each plugins registed using a protocol.
+- If Home wants to use Account framework, They don't have to import it they only need Dependency injection container and the protocol for the dependency!
+<img width="1440" alt="image" src="https://github.com/bibin-jaimon/2023-multi-market-ios-app/assets/22428886/7c866a97-054a-427a-8878-4d2134e63c62">
