@@ -1,8 +1,8 @@
 # Multi Market App Architecture using XCWorkspace and XCProjects
 
-A demonstration of how to setup a multi market ecommercial application.
+- A demonstration of how to setup a multi market ecommercial application.
 
-In this codebase we have two apps `ECommerce` and `ECommerce.ca` which is having two features `Home` and `Account`.
+- In this codebase we have two apps `ECommerce` and `ECommerce.ca` which is having two features `Home` and `Account`.
 
 <img width="1552" alt="image" src="https://github.com/bibin-jaimon/2023-multi-market-ios-app/assets/22428886/d89dd9d7-34b5-4082-8a36-043a7e0f3a86">
 
